@@ -6,7 +6,7 @@ Studying FullStack Development @Nxtwave (CCBP)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking for an job
 - 📫 How to reach me :
-<br /> [<img src="" alt="img" />](https://twitter.com/hareesh_dev) [<img src="" alt="img" />]("")
+<br /> dharmendrafwu@gmail.com
 - 😄 Pronouns: Dev
 - ⚡ Fun fact: I know Hindi.
   
