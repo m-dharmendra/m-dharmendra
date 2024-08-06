@@ -6,8 +6,7 @@ Learning FullStack @ NxtWave
 - 🌱 I’m currently learning DSA
 - 👯 I’m seeking for an interesting job in frontend development !!
 - 🤔 Fresher..
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/profileofdevdharmendra)
+- 📫 How to reach me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/profileofdevdharmendra)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - 
